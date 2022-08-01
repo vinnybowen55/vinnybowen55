@@ -18,6 +18,10 @@ Colors and words are the runes of our Modern World. When wielded carefully, thei
 |`I`| | |`Y`| | |`E`| | | | |
 |`S`| | | | | |`M`| | |[📸](https://www.instagram.com/vinnyBowen/)| |
 |`M`| | | | | | | | | | |
+
+
+
+<br>
 Make Faster Better Software Buying Decisions on [https://softwarecosts.com/]
 
 <!---
