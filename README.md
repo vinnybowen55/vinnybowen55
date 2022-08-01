@@ -1,6 +1,6 @@
 ### Bonjour 🙂
 
-I'm Alex, Holistic Devsigner 🎨
+I'm vinny, Holistic Devsigner 🎨
 
 Colors and words are the runes of our Modern World. When wielded carefully, their power can help your creations shine through the noise!
 
@@ -18,7 +18,7 @@ Colors and words are the runes of our Modern World. When wielded carefully, thei
 |`I`| | |`Y`| | |`E`| | | | |
 |`S`| | | | | |`M`| | |[📸](https://www.instagram.com/vinnyBowen/)| |
 |`M`| | | | | | | | | | |
-Make Faster Better Software Buying Decisions [https://softwarecosts.com/](Make Faster Better Software Buying Decisions)
+Make Faster Better Software Buying Decisions on [https://softwarecosts.com/]
 
 <!---
 vinnybowen55/vinnybowen55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
